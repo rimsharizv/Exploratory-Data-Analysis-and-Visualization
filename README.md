@@ -1,6 +1,5 @@
 # Exploratory-Data-Analysis-and-Visualization
+Author: Rimsha Rizvi
 
 ## Copyright and Plagiarism Notice
-All content in this repository, including code, documentation, and other materials, is the property of Rimsha Rizvi. This work is submitted for CS 418 - Data Science at University of Illinois at Chicago.
-Plagiarism is a serious offense and is strictly prohibited. You may not use, copy, or submit this work as your own. Any instances of plagiarism or unauthorized use will be reported to the relevant academic or professional authorities.
-If you would like to use this work for educational or other non-commercial purposes, please contact the author for permission.
+This work is submitted for CS 418 - Data Science at the University of Illinois at Chicago. Plagiarism is a serious offense and is strictly prohibited. You may not use, copy, or submit this work as your own. Any plagiarism or unauthorized use will be reported to the relevant academic or professional authorities. If you would like to use this work for educational or other non-commercial purposes, don't hesitate to get in touch with the author for permission.
